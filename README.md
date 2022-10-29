@@ -1,4 +1,4 @@
-# me.wlanboy.com
+# me
 github page for using CNAME record
 
 ## using
